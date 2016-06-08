@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 	<html>
 		<head>
-			<title>I completed the Prework</title>
+			<title>I completed the prework</title>
 		</head>
 		<body>
-			<p>I completed the Prework!</p>
+			<p>I completed the prework!</p>
 		</body>
 	</html>
